@@ -1,12 +1,11 @@
 <div align="center">
-<img width="500" alt="desktop-oil-painting" src="https://github.com/Dhravya/dhravya/assets/63950637/659525ed-cee5-4eeb-8267-4eeb747981e2">
+<img width="500" alt="dreamer" src="https://github.com/fhuadeen/fhuadeen/blob/main/media/wallpaper.jpeg?raw=true">
 </div>
 
 <h1 align="center">Hi I'm Fhuad Balogun</h1>
 <h3 align="center">An AWS-certified software engineer with experience in building production-level solutions in AI/ML, Data engineering, Cloud DevOps and Backend.</h3>
 
 - 📫 How to reach me - [On X](https://x.com/fhuadeen), via email [fhuadbalogun@gmail.com](mailto:fhuadbalogun@gmail.com).
-
 
 <details>
   <summary>Github Stats</summary>
