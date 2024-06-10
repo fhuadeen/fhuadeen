@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
 <img width="500" alt="dreamer" src="https://github.com/fhuadeen/fhuadeen/blob/main/media/wallpaper-abstract.jpg?raw=true">
-</div>
+</div> -->
 
 <h1 align="center">Hi I'm Fhuad Balogun</h1>
 <h3 align="center">An AWS-certified software engineer with experience in building production-level solutions in AI/ML, Data engineering, Cloud DevOps and Backend.</h3>
