@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500" alt="dreamer" src="https://github.com/fhuadeen/fhuadeen/blob/main/media/wallpaper.jpeg?raw=true">
+<img width="500" alt="dreamer" src="https://github.com/fhuadeen/fhuadeen/blob/main/media/wallpaper.jpg?raw=true">
 </div>
 
 <h1 align="center">Hi I'm Fhuad Balogun</h1>
